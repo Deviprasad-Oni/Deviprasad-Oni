@@ -8,7 +8,36 @@
 ---
 
 ## 🛠️ My Technical Skills  
-<table> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/></td> </tr> </table>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" title="Tailwind CSS"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" title="Figma"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50" title="Jest"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
@@ -19,9 +48,9 @@
 ---
 
 ## 💡 Featured Projects  
-- **Netflix GPT 🎬** - Built a **movie recommendation system** using **React.js** and **OpenAI API**, delivering **personalized suggestions**.  
-- **Namaste Food 🍽️** - Designed and developed a **food delivery app** using **React.js and Tailwind CSS**, featuring **search filters, order tracking, and authentication**.  
-- **YouTube Clone 🎥** - Developed a **video streaming platform** with **user authentication and real-time commenting functionality**.  
+- **<a href ="https://github.com/Deviprasad-Oni/Netflix-Gpt"> Netflix GPT 🎬<a/>** - Built a **movie recommendation system** using **React.js** and **OpenAI API**, delivering **personalized suggestions**.  
+- **<a href ="https://github.com/Deviprasad-Oni/Namaste-Food">Namaste Food 🍽️<a/>** - Designed and developed a **food delivery app** using **React.js and Tailwind CSS**, featuring **search filters, order tracking, and authentication**.  
+- **<a href ="https://github.com/Deviprasad-Oni/Namaste-Youtube">YouTube Clone 🎥<a/>** - Developed a **video streaming platform** with **user authentication and real-time commenting functionality**.  
 
 ---
 
