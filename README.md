@@ -1,9 +1,11 @@
 # Hi! I'm Deviprasad R Oni 👋
 
-🚀 **About Me**  
-🌟 Passionate about building scalable software applications and tools.  
-📚 Currently enhancing my skills in JavaScript, React, Node.js, and Tailwind CSS to build modern applications.  
-📱 Experience in **React Native** development.  
+## 🚀 About Me  
+&nbsp;&nbsp;&nbsp;🌟 Passionate about building scalable software applications and tools.  
+&nbsp;&nbsp;&nbsp;📚 Currently enhancing my skills in JavaScript, React, Node.js, and Tailwind CSS to build modern applications.  
+&nbsp;&nbsp;&nbsp;📱 Experience in **React Native** development.  
+
+
 
 ---
 
